@@ -1,2 +1,2 @@
-print("hola!, estoy aprendiendo git.")
+git print("hola!, estoy aprendiendo git.")
 print("fin del programa.")
